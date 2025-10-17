@@ -3,6 +3,4 @@ export const ROUTES = {
   DOCTOR_AUTH: "/doctor/auth",
   CUSTOMER_AUTH: "/customer/auth",
   SUPER_ADMIN: "/super-admin",
-
-
 };
